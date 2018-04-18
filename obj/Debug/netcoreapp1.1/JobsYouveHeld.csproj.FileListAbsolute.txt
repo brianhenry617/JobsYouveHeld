@@ -1,0 +1,8 @@
+/Users/Guest/Desktop/JobsYouveHeld/bin/Debug/netcoreapp1.1/JobsYouveHeld.deps.json
+/Users/Guest/Desktop/JobsYouveHeld/bin/Debug/netcoreapp1.1/JobsYouveHeld.runtimeconfig.json
+/Users/Guest/Desktop/JobsYouveHeld/bin/Debug/netcoreapp1.1/JobsYouveHeld.runtimeconfig.dev.json
+/Users/Guest/Desktop/JobsYouveHeld/obj/Debug/netcoreapp1.1/JobsYouveHeld.AssemblyInfo.cs
+/Users/Guest/Desktop/JobsYouveHeld/bin/Debug/netcoreapp1.1/JobsYouveHeld.dll
+/Users/Guest/Desktop/JobsYouveHeld/bin/Debug/netcoreapp1.1/JobsYouveHeld.pdb
+/Users/Guest/Desktop/JobsYouveHeld/obj/Debug/netcoreapp1.1/JobsYouveHeld.dll
+/Users/Guest/Desktop/JobsYouveHeld/obj/Debug/netcoreapp1.1/JobsYouveHeld.pdb
